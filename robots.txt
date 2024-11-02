@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekoxeane.github.io/Emo/sitemap_index.txt
+Sitemap: https://ekoxeane.github.io/fJi/sitemap_index.txt
+Sitemap: https://ekoxeane.github.io/hJF/sitemap_index.txt
+Sitemap: https://ekoxeane.github.io/oBQ/sitemap_index.txt
